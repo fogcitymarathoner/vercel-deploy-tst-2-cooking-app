@@ -8,6 +8,14 @@ I missed where existingPosts    is available to setPosts
 setPosts((existingPosts) => [postData], ...existingPosts)
 [ https://react.dev/reference/react/useState#setstate]( https://react.dev/reference/react/useState#setstate)
 ## SUSPENCE
+
+## Dynamic Routes
+
+```
+[mealSlug]  dynamic routing, meal primary keys
+@xxxx parallel routes, kinda like IFrames
+(.) intercepting routes, internally navigated to, in lieu of externally navigated to
+```
 # npm
 ```npm run dev```
 
