@@ -1,6 +1,13 @@
 # git
 To bring up 'secondary' git dropdown press shift-right-click
 
+# Course Takeaways
+## react useState
+I missed where existingPosts    is available to setPosts
+
+setPosts((existingPosts) => [postData], ...existingPosts)
+[ https://react.dev/reference/react/useState#setstate]( https://react.dev/reference/react/useState#setstate)
+## SUSPENCE
 # npm
 ```npm run dev```
 
