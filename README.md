@@ -13,6 +13,7 @@ setPosts((existingPosts) => [postData], ...existingPosts)
 
 ```
 [mealSlug]  dynamic routing, meal primary keys
+[[...foldername]] catch-all, multiple subpaths tier1/tier2 translate to params { foldername: ['tier1', 'tier2'] }
 @xxxx parallel routes, kinda like IFrames
 (.) intercepting routes, internally navigated to, in lieu of externally navigated to
 ```
